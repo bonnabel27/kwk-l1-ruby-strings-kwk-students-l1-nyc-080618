@@ -1,9 +1,10 @@
 # Code your prompts here!
 
-puts guest_name 
+puts "Hermione" 
 
 
 
 
 
 # Try starting out with puts'ing a string.
+
