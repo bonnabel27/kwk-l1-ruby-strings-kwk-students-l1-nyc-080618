@@ -1,6 +1,6 @@
 # Code your prompts here!
 
-puts 
+puts guest_name 
 
 
 
